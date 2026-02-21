@@ -38,8 +38,6 @@ If the script isn't running, here's steps you can take to remedy that.
                 "sudo apt install python3-shutil"
             (Without quotes)
             Don't fret if some of these dont work, they are likely included with your python installation.
-        LINUX (ARCH BASED)
-            Pretend I put instructions here. Arch is gross. Fedora and debian better. If you're smart enough to use arch, but dont know how to install python packages, thats just a skill issue.
 
 3. Open .py executable
 	 Open a terminal/command prompt window, cd to the directory Asmongoldify is in, then run "python3 Asmongoldify.py" or "python Asmongoldify.py"
